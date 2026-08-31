@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12d0f3c28bda4d80",
+        "id": "9881202e3a1a3396",
         "type": "tabs",
         "children": [
           {
-            "id": "cb39ca97fa747d9c",
+            "id": "1ba2fa0846d4ae66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fishies/Lava Salmon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lava Salmon"
             }
           }
         ]
@@ -195,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb39ca97fa747d9c",
+  "active": "1ba2fa0846d4ae66",
   "lastOpenFiles": [
-    "Templates/Template_Fish.md",
     "Fishies/Lava Salmon.md",
+    "Templates/Template_Fish.md",
     "Media/Images/Fish/Lava Salmon.png",
     "Media/Images/Fish",
     "Media/Images",
