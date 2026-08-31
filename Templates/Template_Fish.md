@@ -1,4 +1,5 @@
 ![[Media/Images/Fish/{{title}}.png|64]]
+**{{title}}** is a fish. 
 
 | **Location**   |     |
 | -------------- | --- |
@@ -7,7 +8,7 @@
 | **Sell Price** |     |
 | **Behaviour**  |     |
 | **Difficulty** |     |
-**{{title}}** is a fish. 
+
 # Usage
 ## Fish Pond
 
