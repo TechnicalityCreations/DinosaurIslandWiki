@@ -5,6 +5,8 @@
 | **Weather**    | All |
 | **Seasons**    | All |
 | **Sell Price** |     |
+| **Behaviour**  |     |
+| **Difficulty** |     |
 **{{title}}** is a fish. 
 # Usage
 ## Fish Pond
