@@ -1,14 +1,14 @@
 ![[Media/Images/Fish/Lava Salmon.png|64]]
 
-**Lava Salmon** is a legendary fish. 
+**Lava Salmon** is a legendary fish that can be found in the caldera when your fishing level is at least 10.
 
-| **Location**   |       |
-| -------------- | ----- |
-| **Weather**    | All   |
-| **Seasons**    | All   |
-| **Sell Price** | 6000  |
-| **Behaviour**  | Mixed |
-| **Difficulty** | 115s  |
+| **Location**   | Caldera |
+| -------------- | ------- |
+| **Weather**    | All     |
+| **Seasons**    | All     |
+| **Sell Price** | 6000    |
+| **Behaviour**  | Mixed   |
+| **Difficulty** | 115s    |
 
 # Usage
 ## Fish Pond
