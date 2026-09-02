@@ -8,7 +8,7 @@
 | **Seasons**    | All     |
 | **Sell Price** | 6000    |
 | **Behaviour**  | Mixed   |
-| **Difficulty** | 115s    |
+| **Difficulty** | 135     |
 
 # Usage
 ## Fish Pond
