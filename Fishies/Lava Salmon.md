@@ -15,9 +15,9 @@
 Lava Salmon has a 37% chance to produce **Lava Salmon Roe** when placed in a fish pond. Like other legendary fish, it doesn't reproduce in a pond, and the population is limited to one.
 ## Gift Tastes
 
-| Loved        |     |
-| ------------ | --- |
-| **Liked**    |     |
-| **Neutral**  |     |
-| **Disliked** |     |
-| **Hated**    |     |
+| Loved        | Leo       |
+| ------------ | --------- |
+| **Liked**    | Universal |
+| **Neutral**  | -         |
+| **Disliked** | -         |
+| **Hated**    | Lewis     |
